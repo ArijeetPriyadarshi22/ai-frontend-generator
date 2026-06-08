@@ -1,8 +1,6 @@
-# CoCreate — AI Frontend Generator
+# AI Frontend Generator
 
 An end-to-end AI-powered UI generation pipeline built with **React + TypeScript + MUI + Stencil.js + MCP + RAG + Claude Sonnet 4**.
-
-Designed as a portfolio project for the **CoCreate AI Frontend Developer** role (Ulm, Germany).
 
 ---
 
